@@ -1,0 +1,23 @@
+{
+  "id": "4789003",
+  "name": "iconfont04",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1472516",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "40911031",
+      "name": "三条杠-copy-copy",
+      "font_class": "expand",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
